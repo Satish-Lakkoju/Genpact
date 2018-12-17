@@ -7,3 +7,6 @@ Historical data of demand for a product-center combination (Weeks: 1 to 145)
 Product(Meal) features such as category, sub-category, current price and discount
 Information for fulfillment center like center area, city information etc.
 Evaluation Metric The evaluation metric for this competition is 100*RMSLE where RMSLE is Root of Mean Squared Logarithmic Error across all entries in the test set.
+
+Solution 
+Model developed in Tensorflow using DNNRegressor
